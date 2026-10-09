@@ -28,8 +28,5 @@ The objective of this assignment is to understand a customer enquiry and consult
 
 The completed assignment is available in the PDF file included in this repository.
 
-## Note
 
-This is a hypothetical assessment prepared for internship application purposes. It is not an actual company project.
-
-**Prepared by:** Vaishnavi Vaghmode
+**Prepared by:** Vaishnavi Waghmode
